@@ -1,1 +1,1 @@
-rootProject.name = "junit_practice"
+rootProject.name = "spring_junit_practice"
